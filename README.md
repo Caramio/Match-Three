@@ -28,4 +28,4 @@ The game does not have the animations for the human eye to see but the scripts a
 
   ##                                                              Video Demonstration
   
-  **[Match Three Gameplay]([https://youtu.be/SoGVpOJSIDU](https://youtu.be/35oiBUdx4tw))**   
+  **[Match Three Gameplay](https://youtu.be/35oiBUdx4tw)**   
